@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/azam-izm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azam-izm" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/azam-izm.bsky.social" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/bluesky-app-icon-social-media-logo-vector-illustration-decentralized-microblogging-social-platform_277909-1864.jpg" alt="azam-izm" height="38" width="40" /></a>
+<a href="https://bsky.app/profile/azam-izm.bsky.social" target="blank"><img align="center" src="https://i.postimg.cc/mr8M45nY/image.png" alt="azam-izm" height="30" /></a>
 <a href="https://api.whatsapp.com/send/?phone=923006541546&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
