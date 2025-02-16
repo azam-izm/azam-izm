@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azam-izm&label=Profile%20views&color=0e75b6&style=flat" alt="azam-izm" />
 
-<img align="right" alt="Coding" width="425" src="https://i.postimg.cc/br4tYq57/flutter-logo-icon-214732-removebg-preview.png">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/br4tYq57/flutter-logo-icon-214732-removebg-preview.png">
 
 
 - 🔭 I’m currently working on **Flutter**
