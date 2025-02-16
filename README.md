@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋 Azam here!
+I write code like poetry, short, concise, and full of meaning.
 <!--
 **azam-izm/azam-izm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
