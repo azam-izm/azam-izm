@@ -32,5 +32,6 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azam-izm&show_icons=true&locale=en" alt="azam-izm" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azam-izm&" alt="azam-izm" /></p>
+![](https://github-readme-stats.vercel.app/api?username=azam-izm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=azam-izm&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azam-izm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
