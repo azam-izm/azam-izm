@@ -32,6 +32,22 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=azam-izm&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=azam-izm&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azam-izm&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div class="stats-box">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=azam-izm&theme=merko&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&line_height=28" style="width: 100%"/>
+    </td>
+    <td width="50%" valign="bottom">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azam-izm&theme=merko&hide_border=true&layout=compact&langs_count=8&card_width=450&exclude_repo=github-readme-stats,azam-izm/azam-izm" style="width: 100%"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+# 📈 Productivity Stats:
+<table align="left">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azam-izm&theme=merko"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
