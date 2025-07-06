@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Git, GitHub, Postman, Figma**
 
-- 📫 How to reach me **muhammadazamflutter@gmail.com**
+- 📫 How to reach me **azamizmflutter@gmail.com**
 
 - 📱 Join my **WhatsApp Group** for Flutter discussions: [Click here](https://chat.whatsapp.com/ExJsYiRfUDkJyqQmqoIe88)
 
